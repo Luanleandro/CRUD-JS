@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "email": "caio@gmail.com",
+      "name": "caio",
+      "password": "asd",
+      "id": 1
+    },
+    {
+      "email": "dadadad@adad",
+      "name": "",
+      "senha": "adadadda",
+      "id": 2
+    },
+    {
+      "email": "daddada@dada",
+      "name": "",
+      "senha": "luna",
+      "id": 3
+    },
+    {
+      "email": "adadad@dadad",
+      "name": "",
+      "senha": "dadada",
+      "id": 4
+    },
+    {
+      "email": "dadadd@dadad",
+      "name": "ygorMama pika",
+      "senha": "dkaaçdkadç",
+      "id": 5
+    }
+  ]
+}
